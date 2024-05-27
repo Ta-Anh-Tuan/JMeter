@@ -9,7 +9,7 @@
 ### Kịch bản kiểm tra:
 
 - Thread Group:
--- Số lượng thread: 100
+  - Số lượng thread: 100
 -- Thời gian chạy: 60 giây
 -- Ramp-up period: 10 giây
 - HTTP Request:
